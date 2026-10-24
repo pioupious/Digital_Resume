@@ -2,7 +2,7 @@
 
 Un site web portfolio personnel au style rétro-futuriste / abyssal, conçu avec un design interactif, des animations CSS dynamiques et des éléments visuels originaux (fenêtres type *adware/pop-up* ludiques).
 
-https://pioupious.github.io/Site_Pierre_Cancalon/
+https://pioupious.github.io/Digital_Resume/
 
 ---
 
